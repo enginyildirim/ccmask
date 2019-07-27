@@ -1,0 +1,13 @@
+{
+    "name": "enginyildirim/ccmask",
+    "description": "Mask a valid cardnumber in long string",
+    "type": "library",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Engin YILDIRIM",
+            "email": "engin@enginyildirim.com.tr"
+        }
+    ],
+    "require": {}
+}
